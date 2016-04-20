@@ -1,0 +1,10 @@
+c:\users\lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\DNP.dll.config
+c:\users\lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\DNP.dll
+c:\users\lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\DNP.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\DNP\DNP\obj\Debug\DNP.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\DNP\DNP\obj\Debug\DNP.dll
+c:\users\lucas\documents\visual studio 2013\Projects\DNP\DNP\obj\Debug\DNP.pdb
+C:\Users\Lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\EntityFramework.dll
+C:\Users\Lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\EntityFramework.xml
+C:\Users\Lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\EntityFramework.SqlServer.xml
