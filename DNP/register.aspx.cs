@@ -46,13 +46,13 @@ namespace DNP
 
             if (email == "")
             {
-                errorMessage.Text += "ENTER A email<br>";
+                errorMessage.Text += "ENTER AN EMAIL<br>";
                 errors++;
             }
 
             if(password1 != password2)
             {
-                errorMessage.Text += "WRONG FUCKING PASSWORD</br>";
+                errorMessage.Text += "PASSWORDS DO NOT MATCH</br>";
                 errors++;
             }
 
