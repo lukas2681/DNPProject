@@ -6,6 +6,9 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Data;
+using System.Configuration;
+using MySql.Data.MySqlClient;
 
 namespace DNP
 {
@@ -70,7 +73,8 @@ namespace DNP
                 using (OdbcConnection connection = new OdbcConnection(ConfigurationManager.ConnectionStrings["MySQLConnStr"].ConnectionString))
                 {
                     connection.Open();
-                    using (OdbcCommand command = new OdbcCommand("INSERT INTO user VALUES (NULL,\"" + username + "\",\"" + fullname + "\",\"" + email + "\",\"" + password1 + "\")", connection))
+                    OdbcCommand command = new OdbcCommand("INSERT INTO user VALUES (NULL,\"" + username + "\",\"" + fullname + "\",\"" + email + "\",\"" + password1 + "\")", connection);
+                    command.ExecuteNonQuery();
                     connection.Close();
                 }
             }

@@ -8,3 +8,16 @@ C:\Users\Lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\EntityFramework
 C:\Users\Lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\EntityFramework.SqlServer.dll
 C:\Users\Lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\EntityFramework.xml
 C:\Users\Lucas\documents\visual studio 2013\Projects\DNP\DNP\bin\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\DNP.dll.config
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\DNP.dll
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\DNP.pdb
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\EntityFramework.dll
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\EntityFramework.SqlServer.dll
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\MySql.Data.dll
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\mysql.data.entity.EF6.dll
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\MySql.Web.dll
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\EntityFramework.xml
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\bin\EntityFramework.SqlServer.xml
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\obj\Debug\DNP.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\obj\Debug\DNP.dll
+C:\Users\Lucas\Documents\GitHub\DNPProject\DNP\obj\Debug\DNP.pdb
