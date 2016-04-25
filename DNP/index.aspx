@@ -19,7 +19,7 @@
         <p>
             <asp:TextBox ID="passwordBox" runat="server"></asp:TextBox>
         </p>
-        <asp:Button ID="Button1" runat="server" Text="Login" />
+        <asp:Button ID="Button1" runat="server" Text="Login" OnClick="Button1_Click" />
         <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/register.aspx">Register</asp:HyperLink>
     </form>
 </body>

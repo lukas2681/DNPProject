@@ -63,6 +63,7 @@ namespace DNP
             else
             {
                 db();
+                Server.Transfer("index.aspx", true);
             }
         }
         
